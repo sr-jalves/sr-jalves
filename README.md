@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sr-jalves&show_icons=true&locale=en" alt="sr-jalves" width="50%" height="50%"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-jalves&show_icons=true&locale=en&layout=compact" alt="sr-jalves"width="40%" height="40%"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-jalves&" alt="sr-jalves" width="50%" height="50%"/>
-<img img align="right" src="https://github-profile-trophy.vercel.app/?username=Sr-jalves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" width="40%" height="40%"/>
+<img img align="right" src="https://github-profile-trophy.vercel.app/?username=Sr-jalves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" width="37%" height="37%"/>
 </p>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Sr-jalves&theme=gotham&hide_border=true&area=true)
