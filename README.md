@@ -2,6 +2,11 @@
 
 </div>
 
+<div align="center">
+  <img alt="Coding" width="300" src="https://cutewallpaper.org/24/animated-computer-gifs/computer-c4f8c-keyboard-53e02-gifs-09723-get-f46c8-the-640fd-best-9ec59-gif-f45b7-on-0fcad-giphy.gif" />
+</div>
+
+
 <img align="right" alt="Coding" width="300" src="https://cutewallpaper.org/24/animated-computer-gifs/computer-c4f8c-keyboard-53e02-gifs-09723-get-f46c8-the-640fd-best-9ec59-gif-f45b7-on-0fcad-giphy.gif"> 
 
 
